@@ -74,7 +74,7 @@ We welcome contributions! Fork, make changes in a new branch, and submit a pull 
 
 **Soyam Kapoor**  
 📧 soyamkapoor.becsef22@iba-suk.edu.pk  
-🔗 [LinkedIn](https://www.linkedin.com/in/soyamkapoor/)
+🔗 [LinkedIn](www.linkedin.com/in/soyamkapoor)
 
 **Muhammad Usman**  
 📧 muhammadusman.becsef22@iba-suk.edu.pk  
