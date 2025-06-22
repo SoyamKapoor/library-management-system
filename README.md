@@ -69,17 +69,3 @@ The system uses **MySQL** for the backend and a **Python Tkinter GUI** with `ttk
 We welcome contributions! Fork, make changes in a new branch, and submit a pull request.
 
 ---
-
-## 📬 Contact
-
-**Soyam Kapoor**  
-📧 soyamkapoor.becsef22@iba-suk.edu.pk  
-🔗 [LinkedIn](www.linkedin.com/in/soyamkapoor)
-
-**Muhammad Usman**  
-📧 muhammadusman.becsef22@iba-suk.edu.pk  
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-usman-018535253)
-
-**Asma Channa**  
-📧 asmachanna.becsef22@iba-suk.edu.pk  
-🔗 [LinkedIn](https://www.linkedin.com/in/iasmachanna/)
